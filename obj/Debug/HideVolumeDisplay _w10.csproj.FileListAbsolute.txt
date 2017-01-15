@@ -1,0 +1,9 @@
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\bin\Debug\HideVolumeDisplay _w10.exe.config
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\bin\Debug\HideVolumeDisplay _w10.exe
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\bin\Debug\HideVolumeDisplay _w10.pdb
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\obj\Debug\HideVolumeDisplay _w10.csprojResolveAssemblyReference.cache
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\obj\Debug\HideVolumeDisplay__w10.Form1.resources
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\obj\Debug\HideVolumeDisplay__w10.Properties.Resources.resources
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\obj\Debug\HideVolumeDisplay _w10.csproj.GenerateResource.Cache
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\obj\Debug\HideVolumeDisplay _w10.exe
+c:\users\bon\documents\visual studio 2015\Projects\HideVolumeDisplay _w10\HideVolumeDisplay _w10\obj\Debug\HideVolumeDisplay _w10.pdb
